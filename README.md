@@ -8,3 +8,6 @@ It has been tested, but it may still be buggy or crash.
 Created with help from this tutorial series: https://youtu.be/IRFUYGkMV8w
 
 This requires JUCE in order for it to be built: https://github.com/WeAreROLI/JUCE
+
+![](pic1.png)
+![](pic2.png)
